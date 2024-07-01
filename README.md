@@ -29,7 +29,7 @@ This is a web application built with Streamlit that allows users to upload an im
    pip install -r requirements.txt
 5. Create a .env file in the project directory and add the following lines:
    ```bash
-   ZILLIZ_URI=https://in03-60fa41dd071d8f8.api.gcp-us-west1.zillizcloud.com/v1/vector/search
+   ZILLIZ_URI="URI"
 ZILLIZ_API_KEY=YOUR_API_KEY
 
 
